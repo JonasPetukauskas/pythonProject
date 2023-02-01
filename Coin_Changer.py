@@ -1,5 +1,8 @@
 #Comment added
 #Comment added
+#choose nominals
+def choose_noms():
+    pass
 
 def getchange(total_amount, price):
     nominals = [1, 2, 5, 10, 20, 50, 100]
