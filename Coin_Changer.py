@@ -1,4 +1,5 @@
-
+#Comment added
+#Comment added
 
 def getchange(total_amount, price):
     nominals = [1, 2, 5, 10, 20, 50, 100]
